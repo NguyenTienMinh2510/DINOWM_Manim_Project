@@ -1,0 +1,14 @@
+# Manim output and generated media
+media/*
+!media/.gitkeep
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
